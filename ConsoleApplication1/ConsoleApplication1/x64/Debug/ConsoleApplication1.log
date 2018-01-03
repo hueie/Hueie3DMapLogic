@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\kait\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(126): warning C4715: 'nearWhitePixel': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\kait\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\Hueie3DMapLogic1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\kait\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\Hueie3DMapLogic1.pdb (Full PDB)
